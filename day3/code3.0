@@ -1,0 +1,5 @@
+marks = 75
+if marks >= 40:
+    print("Result: Passed")
+else:
+    print("Result: Failed")
