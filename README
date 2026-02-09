@@ -1,0 +1,9 @@
+Expected Outcome
+The program should perform basic arithmetic operations such as addition, subtraction, multiplication, division, modulus, exponentiation, and floor division.
+The operations should be performed on predefined values without taking any input from the user.
+The results of each arithmetic operation should be displayed correctly on the screen.
+
+Actual Outcome
+The program executed successfully without any errors.
+All arithmetic operations were performed on the given predefined values.
+The correct results were displayed in the output as expected.
